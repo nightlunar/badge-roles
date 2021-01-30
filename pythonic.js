@@ -96,4 +96,4 @@ stg. roles.add(partner)
     }
  )
 
-Client.login('ODA0NzI3MTMxNTI2NjYwMTU3.YBQiiw.GD8GVloi4xAJRFiguMdlhS_MBfo')
+Client.login('token')
